@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://terkumas21-ship-it.github.io/sitemap.xml
