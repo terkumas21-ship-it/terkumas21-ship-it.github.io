@@ -21,7 +21,7 @@ PUBLISH WITH GITHUB PAGES
 2. Create a repository named: YOURUSERNAME.github.io
 3. Upload all files in this folder to the repository root.
 4. In Settings > Pages, select the main branch as the publishing source.
-5. GitHub will publish the site at https://YOURUSERNAME.github.io
+5. GitHub will publish the site at https://terkuma-ship-it.github.io
 6. Changes can take a few minutes to appear.
 
 CUSTOM DOMAIN
